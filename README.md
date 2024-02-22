@@ -67,7 +67,6 @@ pip install vllm
 
 Run `inference.py`:
 
-Example:
 ```
 python inference.py --model {model_path} --tp_degree 4 --dataset_name GSM8K --output_path gsm8k_output.json --hint
 ```
@@ -77,7 +76,6 @@ Run `evaluate.py`
 
 The accuracy will be printed to standard output.
 
-Example:
 ```
 python evaluate.py --dataset_name GSM8K --file gsm8k_output.json
 ```
