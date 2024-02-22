@@ -46,7 +46,7 @@ pip install vllm
 - `prompt/`:  Applying HSP to SD, LtM, PS, and CoT promptings for the LLMs to generate the reasoning process across six datasets.
 - `sft/`:
   - `deepspeed_config.json`: We use deepspeed to accelerate model training.
-  - `sft_data_*.jsonl`: Supervise fine-tuning datasets.
+  - `HSPMATH*.jsonl`: Supervise fine-tuning datasets.
   - `sft_train.py`: The main train class.
   - `sft_train.sh`: Run this file to train model.  
 - `evaluate.py`: Evaluation script for the six datasets.
@@ -83,7 +83,7 @@ python evaluate.py --dataset_name GSM8K --file gsm8k_output.json
 ### (3) Supervise Fine-tuning 
 - SFT on HSPMATH dataset
 - We constructed a HSPMATH1 dataset with 7.5k samples based on the GSM8K training dataset with the assistance of GPT-4.
-- Based on rewriting questions from the MetaMathQA dataset, we expanded our HSPMATH dataset to 75,000 samples (./sft/sft_data_v2. jsonl).
+- Based on rewriting questions from the MetaMathQA dataset, we expanded our HSPMATH dataset to 75,000 samples (./sft/HSPMATH.jsonl).
 - We conducted SFT training on 8xA100 (80G) GPUs using the Slurm scheduling system. The training script path is: ./sft/sft_train.sh
 ```
 model_llemma_7b="EleutherAI/llemma_7b"
@@ -100,7 +100,7 @@ sft_gsm8k.py \
 --per_device_train_batch_size 2 \
 --gradient_accumulation_steps 4 \
 --num_train_epochs 5 \
---data_path "sft_data_v2.jsonl" \
+--data_path "HSPMATH.jsonl" \
 --need_hint True \
 --bf16  \
 --save_strategy epoch \

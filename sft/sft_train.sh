@@ -29,7 +29,7 @@ sft_gsm8k.py \
 --per_device_train_batch_size 2 \
 --gradient_accumulation_steps 4 \
 --num_train_epochs 5 \
---data_path "sft_data_v2.jsonl" \
+--data_path "HSPMATH.jsonl" \
 --need_hint True \
 --bf16  \
 --save_strategy epoch \
