@@ -1,0 +1,64 @@
+Q: Keaton climbed a 30 feet ladder twenty times while working at the construction site. Reece, also working at the same site, climbed a ladder 4 feet shorter than Keaton's ladder 15 times. What's the total length of the ladders that both workers climbed in inches?
+A: If Keaton climbed his ladder twenty times, he covered a length of 30*20 = <<30*20=600>>600 feet.
+Reece's ladder, 4 feet shorter than Keaton's ladder, was 30-4 = <<30-4=26>>26 feet long.
+If Reece climbed the ladder 15 times, he covered a length of 15*26 = <<15*26=390>>390 feet.
+Keaton and Reece's total length covered while climbing the ladders is 390+600 = <<390+600=990>>990 feet.
+Since one foot is equal to 12 inches, the total length they climbed the ladders in inches is 12*990 = <<12*990=11880>>11880 inches.
+#### 11880
+The answer is: 11880
+
+Q: Emily makes $1,000,000 per year. If she has 10 employees who make $20,000 per year, how much would her salary be if she took part of her salary to make sure all of her employees make $35,000 per year.
+A: Each employee needs $35,000-$20,000=$<<35000-20000=15000>>15,000 more per year.
+In total, Emily needs to pay $15,000*10=$<<15000*10=150000>>150,000 extra.
+Emily will need to have a new salary of $1,000,000-$150,000=$<<1000000-150000=850000>>850,000 per year.
+#### 850,000
+The answer is: 850000
+
+Q: Linda bought two coloring books at $4 each, 4 packs of peanuts at $1.50 each pack, and one stuffed animal. She gave the cashier $25 and got no change. How much does a stuffed animal cost?
+A: The two coloring books amount to 2 x $4 = $<<2*4=8>>8.
+The 4 packs of peanuts amount to 4 x $1.50 = $<<4*1.5=6>>6.
+The total cost for the coloring books and peanuts is $8 + $6 = $<<8+6=14>>14.
+Thus, the stuffed animal cost $25 - $14 = $<<25-14=11>>11.
+#### 11
+The answer is: 11
+
+Q: Monika went out for the day and spent some money. She went to the mall and spent $250. Then, she went to the movies and watched 3 movies back to back that each cost $24. Then she stopped by the farmer's market on her way home and got 20 bags of beans at $1.25/bag. How much money did Monika spend throughout her day?
+A: Monika spent 24*3 = <<24*3=72>>72 dollars at the movies.
+Monika spent 20*1.25 = <<20*1.25=25>>25 dollars at the farmers market.
+Throughout her day, Monika spent 250+72+25 = <<250+72+25=347>>347 dollars.
+#### 347
+The answer is: 347
+
+Q: Nurse Missy is attending to the needs of 12 patients in her hospital ward.  Most of her patients require standard care, but one-third of her patients have special dietary requirements, which increases the serving time by 20%.  At dinner time, she brings each patient their meal. It takes 5 minutes to serve each standard care patient.  How long does it take, in minutes, for Missy to serve dinner to all of her patients?
+A: Nurse Missy has 12*(1/3)=<<12*(1/3)=4>>4 special needs patients.
+She has 12-4=<<12-4=8>>8 standard care patients.
+Special needs patients take 20% longer to serve, which means serving takes 1.2*5=6 minutes per patient.
+To serve dinner to all of her standard care patients, it will take 5*8=<<5*8=40>>40 minutes.
+To serve dinner to all of her special needs patients, it will take 6*4=<<6*4=24>>24 minutes.
+In total, it will take 40+24=<<40+24=64>>64 minutes to serve dinner to all of her patients.
+#### 64
+The answer is: 64
+
+Q: Ronald can grill 15 hamburgers per session on his new grill.  He needs to cook 115 hamburgers in total for tonight's party.  He has already cooked 40 hamburgers.  How many more sessions will it take Ronald to finish cooking all 115 hamburgers?
+A: He has to cook 115 hamburgers and has already cooked 40 so he needs to cook 115-40 = <<115-40=75>>75 more hamburgers
+He can only cook 15 hamburgers at a time so that means he has to cook 75/15 = <<75/15=5>>5 more cooking sessions
+#### 5
+The answer is: 5
+
+Q: TJ ran a 10K race last Saturday. He ran the first half in 20 minutes. He completed the second half in 30 minutes. What was his average time per kilometer?
+A: He ran the 10 kilometers in a total of 20 + 30 = <<20+30=50>>50 minutes.
+Therefore, he ran at a pace of 50 minutes / 10 kilometers = <<50/10=5>>5 minutes per kilometer.
+#### 5
+The answer is: 5
+
+Q: Alison bought some storage tubs for her garage. She bought 3 large ones and 6 small ones, for $48 total. If the large tubs cost $6, how much do the small ones cost?
+A: Let t be the price of the small tubs
+3*6+6*t=48
+18+6*t=48
+6*t=48-18=30
+6t=30
+t=<<5=5>>5 dollars for each small tub
+#### 5
+The answer is: 5
+
+Q:

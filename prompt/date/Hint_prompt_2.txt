@@ -1,0 +1,65 @@
+Q: 2015 is coming in 36 hours. What is the date one week from today in MM/DD/YYYY?
+Hint: To find the date one week from today, first establish today's date based on the given information. If 2015 is coming in 36 hours, it means it is coming in 1.5 days, since there are 24 hours in a day. Therefore, if today is 12/30/2014, adding seven days to this date will give the date one week from today.
+A: If 2015 is coming in 36 hours, then it is coming in 2 days.
+2 days before 01/01/2015 is 12/30/2014, so today is 12/30/2014.
+So one week from today will be 01/06/2015.
+So the answer is 01/05/2015.
+
+Q: The first day of 2019 is a Tuesday, and today is the first Monday of 2019. What is the date today in MM/DD/YYYY?
+Hint: To determine today's date, first establish the day of the week for the first day of the year. Since 01/01/2019 was a Tuesday, the first Monday of 2019 would be six days later. Counting from Tuesday, the first Monday would fall on the 7th day of January.
+A: If the first day of 2019 was Tuesday, then 01/01/2019 was a Tuesday.
+Today is the first monday, would be six days later.
+So today is 01/07/2019.
+So the answer is 01/07/2019.
+
+Q: The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date 10 days ago in MM/DD/YYYY?
+Hint: To find the date 10 days ago, first determine today's date based on the given information. The concert originally scheduled for 06/01/1943 was delayed by one day, making today 06/02/1943. Subtracting 10 days from this date will give the date 10 days ago.
+A: One day after 06/01/1943 is 06/02/1943, so today is 06/02/1943.
+10 days before today is 05/23/1943.
+So the answer is 05/23/1943.
+
+Q: It is 4/19/1969 today. What is the date 24 hours later in MM/DD/YYYY?
+Hint: To find the date 24 hours later, consider that 24 hours equates to one full day. Starting from the given date, 04/19/1969, adding one day will give the date for the following day.
+A: Today is 04/19/1969.
+24 hours later is one day after today, which would be 04/20/1969.
+So the answer is 04/20/1969.
+
+Q: Jane thought today is 3/11/2002, but today is in fact Mar 12, which is 1 day later. What is the date 24 hours later in MM/DD/YYYY?
+Hint: To determine the date 24 hours later, first establish today's correct date. If Jane thought today is 3/11/2002, but it is actually 1 day later, then today is 03/12/2002. Adding 24 hours, which is equivalent to one day, to this date will give the date for the following day.
+A: Today is 03/12/2002.
+So the date 24 hours later will be 03/13/2002.
+So the answer is 03/13/2002.
+
+Q: Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date yesterday in MM/DD/YYYY?
+Hint: To find the date for yesterday, first determine today's date based on Jane's birthday. Since Jane was born on the last day of February in 2001, which is not a leap year, her birthday is on February 28th. If today is her 16th birthday, then today's date is February 28th, 2017. Subtracting one day from this date will give the date for yesterday.
+A: The last day of February is the 28th, so Jane was born on 02/28/2001.
+Today is her 16-year old birthday, so today is 02/28/2017.
+So yesterday was 02/27/2017.
+So the answer is 02/27/2017.
+
+Q: Yesterday was April 30, 2021. What is the date tomorrow in MM/DD/YYYY?
+Hint: To determine the date for tomorrow, first establish today's date based on the information about yesterday. If yesterday was April 30, 2021, then today is the day after, which is May 1, 2021. Tomorrow will be one day after today, so it will be May 2, 2021.
+A: Yesterday was 04/30/2021.
+Tomorrow is two days after yesterday, so tomorrow is 05/02/2021. S
+o the answer is 05/02/2021.
+
+Q: Today is 12/31/2020. What is the date 1 week ago in MM/DD/YYYY?
+Hint: To find the date one week ago, subtract seven days from today's date. If today is 12/31/2020, count back seven days to determine the date a week ago.
+A: Today is 12/31/2020.
+One week ago is 7 days before today, so one week ago is 12/24/2020.
+So the answer is 12/24/2020.
+
+Q: It was Sept. 1st, 2021 a week ago. What is the date tomorrow in MM/DD/YYYY?
+Hint: To determine the date for tomorrow, first establish today's date based on the given information. If it was September 1st, 2021 a week ago, then today is seven days after that date. Calculate today's date and then add one day to find the date for tomorrow.
+A: It was 09/01/2021 a week ago.
+Today is 7 days after 09/01/2021, so today is 09/08/2021.
+Tomorrow is one day after today, so tomorrow is 09/09/2021.
+So the answer is 09/09/2021.
+
+Q: In the US, Thanksgiving is on the fourth Thursday of November. Today is the US Thanksgiving of 2001. What is the date a month ago in MM/DD/YYYY?
+Hint: To find the date a month ago, first establish today's date based on the holiday. US Thanksgiving in 2001 fell on the fourth Thursday of November. Once today's date is determined, subtract one month to find the date a month ago.
+A: In the US, Thanksgiving is on the fourth Thursday of November.
+Today is the US Thanksgiving of 2001.
+So today is 11/22/2001.
+A month ago from today is 10/22/2001.
+So the answer is 10/22/2001.

@@ -1,0 +1,71 @@
+Q: A person is traveling at 20 km/hr and reached his destiny in 2.5 hr then find the distance?
+Answer Choices:
+(a) 53 km
+(b) 55 km
+(c) 52 km
+(d) 60 km
+(e) 50 km
+Hint: To find the distance traveled, you can multiply the speed (in km/hr) by the time (in hours).
+
+Q: John found that the average of 15 numbers is 40. If 10 is added to each number then the mean of the numbers is?
+Answer Choices:
+(a) 50
+(b) 45
+(c) 65
+(d) 78
+(e) 64
+Hint: To find the new mean after adding a constant value to each number, simply add that constant to the original mean.
+
+Q: If a / b = 3/4 and 8a + 5b = 22,then find the value of a.
+Answer Choices:
+(a) 1/2
+(b) 3/2
+(c) 5/2
+(d) 4/2
+(e) 7/2
+Hint: Start by substituting the value of b in terms of a into the second equation. Simplify the equation and solve for a.
+
+Q: How many keystrokes are needed to type the numbers from 1 to 500?
+Answer Choices:
+(a) 1156
+(b) 1392
+(c) 1480
+(d) 1562
+(e) 1788
+Hint: Count the number of keystrokes required for each category of numbers separately (one-digit, two-digit, and three-digit). Then add up the total number of keystrokes.
+
+Q: Two friends plan to walk along a 43-km trail, starting at opposite ends of the trail at the same time. If Friend P's rate is 15% faster than Friend Q's, how many kilometers will Friend P have walked when they pass each other?
+Answer Choices:
+(a) 21
+(b) 21.5
+(c) 22
+(d) 22.5
+(e) 23
+Hint: Let's assume that Friend Q walks x kilometers. Since Friend P's rate is 15% faster, Friend P will walk 1.15x kilometers. The sum of their distances should equal the total length of the trail, which is 43 kilometers. Use this information to set up an equation and solve for x.
+
+Q: The entrance fee for a fair is $5 for persons under the age of 18, and 20% more for persons older. Each ride at the fair costs $0.50. If Joe goes with her 6 years old twin brothers, and they each took 3 rides in total. How much money does Joe end up spending at the fair?
+Answer Choices:
+(a) 16
+(b) 20.5
+(c) 17.5
+(d) 20
+(e) 4.5
+Hint: To calculate the total entrance fee for Joe and her twin brothers, you need to determine the entrance fee for each person and then add them together.
+
+Q: If Tim had lunch at $50 and he gave 20% tip, how much did he spend?
+Answer Choices:
+(a) $60.00
+(b) $35.42
+(c) $60.60
+(d) $21.56
+(e) $78.45
+Hint: To calculate the total amount Tim spent, you need to add the cost of his lunch to the tip amount.
+
+Q: A cheese factory sells its cheese in rectangular blocks. A normal block has a volume of 8 cubic feet. If a small block has half the width, half the depth, and half the length of a normal block, what is the volume of cheese in a small block in cubic feet?
+Answer Choices:
+(a) 1
+(b) 5
+(c) 4
+(d) 6
+(e) 2
+Hint: The volume of a rectangular block is calculated by multiplying its length, width, and height. To find the volume of the small block, you need to consider the changes in dimensions.

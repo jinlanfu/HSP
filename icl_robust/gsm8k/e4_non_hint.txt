@@ -1,0 +1,70 @@
+Q: It takes 30 minutes to make pizza dough and another 30 minutes in the oven for the pizza to cook. If one batch of pizza dough can make 3 pizzas but the oven can only fit 2 pizzas at a time, how many hours would it take for Camilla to finish making 12 pizzas?
+A: Camilla needs 12/3 = <<12/3=4>>4 batches of pizza dough.
+4 batches of pizza would require 30 x 4 = <<4*30=120>>120 minutes
+Camilla needs to bake the pizzas 12/2 = <<12/2=6>>6 times
+6 times in the oven would take 30 x 6 =<<6*30=180>>180 minutes
+Altogether, it would take 120 + 180 = <<120+180=300>>300 minutes to finish making 12 pizzas
+300 minutes is 300/60 = <<300/60=5>>5 hours
+#### 5
+The answer is: 5
+
+Q: Frankie and Carla played 30 games of ping pong against each other.  Frankie won half as many games as did Carla.  How many games did Carla win?
+A: Let x be the number of games that Frankie won.
+Then the number of games Carla won would be 2*x.
+And the sum of all the games would be x+2*x=30 games.
+Thus, the expression simplifies to 3*x=30.
+And the value of x=<<10=10>>10 games.
+Therefore, the number of Carla's wins would be 2x=20 games.
+#### 20
+The answer is: 20
+
+Q: A man is returning home from work and trying to decide which route to take.  His first route option includes 3 stoplights.  This route will take him 10 minutes if all three lights are green, but each light that is red will add 3 minutes to the trip.  The second route does not include any stoplights and takes 14 minutes.  If the man chooses the first route, how much longer will his trip be if all 3 stoplights are red?
+A: If all 3 stoplights are red, the first route will take 10 + 3*3 = <<10+3*3=19>>19 minutes.
+Thus, the first route will take 19-14 = <<19-14=5>>5 minutes longer than the second route.
+#### 5
+The answer is: 5
+
+Q: At Snowflake Plastics, each employee gets 10 sick days and 10 vacation days per year.  If Mark uses half his allotment of both types of days in a year, how many hours' worth of days does he have left if each day covers an 8-hour long workday?
+A: First, we add the two types of days together to find 10+10=<<10+10=20>>20 days in total between the two types.
+We then divide this number in half to find Mark's remaining number of days, getting 20/2= <<10=10>>10 days remaining.
+Since each day counts as 8 hours, we multiply 10*8= <<10*8=80>>80 hours' worth of days remaining for Mark.
+#### 80
+The answer is: 80
+
+Q: Hadley wore his cowboy boots everywhere.  He walked 2 miles to the grocery store in his boots.  Then he walked 1 less than two miles to the pet store in his boots.  Then, he walked one less than four miles back home in his boots.  How far, in miles, did Hadley walk in his boots?
+A: After he walked 2 miles to the grocery store, he walked one less than two miles to the pet store, adding 2-1=1 mile to his journey.
+To complete his journey, he walked one less than four miles to return home, adding 4-1=3 miles. to his journey.
+In total, Hadley walked 2+1+3=<<2+1+3=6>>6 miles.
+#### 6
+The answer is: 6
+
+Q: A shopping center sells T-shirts at $8 each, a sweater at $18,  and a jacket at $80. The jacket is on sale with a 10% discount. The sales tax is 5%.  Kevin wants to buy six T-shirts, four sweaters, and five jackets for his children. How much does Kevin have to pay for all the items, including the sales tax?
+A: The six T-shirts cost 6 x $8 = $<<6*8=48>>48.
+The four sweaters cost 4 x $18 = $<<4*18=72>>72.
+And five jackets normally cost 5 x $80 = $<<5*80=400>>400.
+So, a discount of 10/100 x $400 = $<<10/100*400=40>>40 for the five jackets.
+Thus, the selling price of the five jackets is $400 - $40 = $<<400-40=360>>360.
+Hence, the total cost of all the items is $48 + $72 + $360 = $<<48+72+360=480>>480.
+The sales tax is equal to 5/100 x $480 = $<<5/100*480=24>>24.
+Therefore, Kevin has to pay $480 + $24 = $<<480+24=504>>504. including the sales tax.
+#### 504
+The answer is: 504
+
+Q: Jackson wants to impress his girlfriend by filling her hot tub with champagne. The hot tub holds 40 gallons of liquid. Each bottle of champagne holds 1 quart. (There are 4 quarts per gallon). If each bottle of champagne costs $50, but Jackson gets a 20% volume discount, how much does he spend on champagne?
+A: First find the number of quarts the hot tub holds by multiplying the number of gallons it holds by 4: 40 gallons * 4 quarts/gallon = <<40*4=160>>160 quarts
+Then multiply the number of quarts of champagne Jackson buy by the normal price per bottle to find the cost before the discount: 160 quarts * $50/quart = $<<160*50=8000>>8000
+Then multiply that number by 20% to find the amount of the discount: $8000 * .2 = $<<8000*.2=1600>>1600
+Finally, subtract the discount from the total cost to find the final amount Jackson pays: $8000 - $1600 = $<<8000-1600=6400>>6400
+#### 6400
+The answer is: 6400
+
+Q: A lot of people have been sick at Gary's workplace, so he's been working a lot of extra shifts to fill in for people. As a result, he's earned some overtime (where every hour after 40 he earns 1.5 times his normal wage.) His paycheck (before taxes are taken out) came out to $696. If Gary normally earns $12 per hour, how many hours did he work that week?
+A: Gary earned overtime, so he worked at least 40 hours. for which he was paid 40 hours * $12/hour = $<<40*12=480>>480 at his normal wage.
+This means that $696 - $480 = $<<696-480=216>>216 was earned at his overtime wage.
+His overtime wage is 1.5 his normal wage, or $12 * 1.5 = $<<12*1.5=18>>18 per hour.
+So Gary worked $216 / $18 per hour = <<216/18=12>>12 hours' worth of overtime.
+So in total, Gary worked 40 hours + 12 hours = <<40+12=52>>52 hours that week.
+#### 52
+The answer is: 52
+
+Q:

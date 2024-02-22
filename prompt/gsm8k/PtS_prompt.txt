@@ -1,0 +1,83 @@
+Q: James decides to run 3 sprints 3 times a week. He runs 60 meters each sprint. How many total meters does he run a week?
+A: Let’s first understand the problem, extract relevant variables and their corresponding numerals, and make a complete plan.Then, let’s carry out the plan, calculate intermediate variables (pay attention to correct numerical calculation and commonsense), solve the problem step by step, and show the answer.
+
+Given:
+James runs 3 sprints 3 times a week.
+Each sprint is 60 meters.
+
+Plan:
+We need to calculate the total meters run by James in a week.
+
+Calculation:
+Total number of sprints run by James in a week = 3 sprints x 3 times = 9 sprints
+Total meters run by James in a week = 9 sprints x 60 meters = 540 meters
+
+Answer:
+James runs 540 meters in a week.
+The answer is 540.
+
+
+Q: In a dance class of 20 students, 20% enrolled in contemporary dance, 25% of the remaining enrolled in jazz dance, and the rest enrolled in hip-hop dance. What percentage of the entire students enrolled in hip-hop dance?
+A: Let’s first understand the problem, extract relevant variables and their corresponding numerals, and make a complete plan.Then, let’s carry out the plan, calculate intermediate variables (pay attention to correct numerical calculation and commonsense), solve the problem step by step, and show the answer.
+
+Given:
+Total number of students = 20
+Percentage of students enrolled in contemporary dance = 20%
+Percentage of students enrolled in jazz dance = 25%
+
+Plan:
+1. Calculate the number of students enrolled in contemporary dance.
+2. Calculate the number of students remaining after subtracting the number of students enrolled in contemporary dance.
+3. Calculate the number of students enrolled in jazz dance.
+4. Calculate the number of students enrolled in hip-hop dance.
+5. Calculate the percentage of students enrolled in hip-hop dance.
+
+Calculation:
+1. Number of students enrolled in contemporary dance = 20% of 20 = 20% × 20 = 4
+2. Number of students remaining after subtracting the number of students enrolled in contemporary dance = 20 - 4 = 16
+3. Number of students enrolled in jazz dance = 25% of 16 = 25% × 16 = 4
+4. Number of students enrolled in hip-hop dance = 16 - 4 = 12
+5. Percentage of students enrolled in hip-hop dance = 12/20 × 100% = 60%
+
+Answer:
+60% of the entire students enrolled in hip-hop dance.
+The answer is 60%.
+
+
+Q: A robe takes 2 bolts of blue fiber and half that much white fiber.  How many bolts in total does it take?
+A: Let’s first understand the problem, extract relevant variables and their corresponding numerals, and make a complete plan.Then, let’s carry out the plan, calculate intermediate variables (pay attention to correct numerical calculation and commonsense), solve the problem step by step, and show the answer.
+
+Given:
+Blue fiber: 2 bolts
+White fiber: Half that much
+
+Plan:
+Calculate the total number of bolts of white fiber needed
+
+Calculation:
+White fiber = Half of 2 bolts = 1 bolt
+
+Answer:
+Total number of bolts = 2 bolts of blue fiber + 1 bolt of white fiber = 3 bolts
+The answer is 3.
+
+
+Q: Josh decides to try flipping a house.  He buys a house for $80,000 and then puts in $50,000 in repairs.  This increased the value of the house by 150%.  How much profit did he make?
+A: Let’s first understand the problem, extract relevant variables and their corresponding numerals, and make a complete plan.Then, let’s carry out the plan, calculate intermediate variables (pay attention to correct numerical calculation and commonsense), solve the problem step by step, and show the answer.
+
+Given:
+Purchase Price = $80,000
+Repair Cost = $50,000
+Increase in Value = 150%
+
+Plan:
+Profit = Selling Price - Purchase Price - Repair Cost
+Selling Price = Purchase Price + Increase in Value
+
+Calculation:
+Selling Price = $80,000 + 150% = $80,000 + 150/100 × $80,000 = $200,000
+Profit = $200,000 - $80,000 - $50,000 = $70,000
+
+Answer:
+Josh made a profit of $70,000.
+The answer is 70000.

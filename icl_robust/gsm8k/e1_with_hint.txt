@@ -1,0 +1,65 @@
+Q: For every 1 minute that Carlotta sings on stage during the final opera performance, she spends an additional 3 minutes practicing and 5 minutes throwing temper tantrums. If her final stage performance is 6 minutes long, what is the total combined amount of time, in minutes, that she spends practicing, throwing tantrums, and singing in the final stage performance?
+Hint:To calculate the total time Carlotta spends on all activities, you need to add the time she spends practicing, throwing tantrums, and singing. Multiply the length of her performance by 3 to find the practice time and by 5 to find the tantrum time, then add these to the performance time.
+A: For each 6 minutes she performs, Carlotta spends 6 * 3 minutes = <<6*3=18>>18 minutes practicing.
+For each 6 minutes she performs, Carlotta throws tantrums for 6 * 5 minutes = <<6*5=30>>30 minutes.
+Thus, in total, for each 6 minutes of performance time, she spends 18 minutes + 30 minutes + 6 minutes = 54 minutes on all three activities.
+#### 54
+The answer is: 54
+
+Q: Phillip's mother asked him to go to the supermarket to buy some things and gave him $95, so he spent $14 on oranges, $25 on apples and $6 on candy. How much money does he have left?
+Hint:To find out how much money Phillip has left, you need to add up the total cost of the oranges, apples, and candy he bought and then subtract this total from the amount of money his mother gave him.
+A: If we add everything Phillip bought, we will have: $14 + $25 + $6 = $<<14+25+6=45>>45
+He spent $45, and we know that he had $95 dollars, so now we have to subtract: $95 - $45 = $<<95-45=50>>50
+#### 50
+The answer is: 50
+
+Q: Pam has some bags of apples. Each of her bags has as many apples as 3 of Gerald's bags. Gerald's bags have 40 apples each. If Pam has 1200 apples in total, how many bags of apples does she have?
+Hint:To find out how many bags of apples Pam has, first determine how many apples are in one of Pam's bags by multiplying the number of apples in one of Gerald's bags by 3. Then divide the total number of apples Pam has by the number of apples in one of her bags.
+A: Each of Pam's bags contain 40*3=<<40*3=120>>120 apples.
+Pam has 1200/120=<<1200/120=10>>10 bags of apples.
+#### 10
+The answer is: 10
+
+Q: Chelsea has 24 kilos of sugar. She divides them into 4 bags equally. Then one of the bags gets torn and half of the sugar falls to the ground. How many kilos of sugar remain?
+Hint:To find out how many kilos of sugar remain, first determine how much sugar is in each bag after dividing them equally. Then calculate how much sugar is lost from the torn bag and subtract that from the total amount of sugar Chelsea started with.
+A: Each bag has 24/4=<<24/4=6>>6 kilos of sugar.
+6/2=<<6/2=3>>3 kilos of sugar falls to the ground.
+24-3=<<24-3=21>>21 kilos of sugar remains.
+#### 21
+The answer is: 21
+
+Q: Bert fills out the daily crossword puzzle in the newspaper every day. He uses up a pencil to fill out the puzzles every two weeks. On average, it takes him 1050 words to use up a pencil. How many words are in each crossword puzzle on average?
+Hint:To find the average number of words in each crossword puzzle, divide the total number of words Bert writes to use up a pencil by the number of days it takes him to use up the pencil.
+A: At 7 days a week, it takes Bert 2 * 7 = <<2*7=14>>14 days of daily crossword puzzles to use up a pencil.
+Since Bert does one puzzle a day, each crossword puzzle has 1050 / 14 = <<1050/14=75>>75 words.
+#### 75
+The answer is: 75
+
+Q: There were sweets on the table. Jack came and took half of all the candies and 4 more candies. Then Paul came and took the remaining 7 sweets. How many sweets were on the table at first?
+Hint:To find the original number of sweets on the table, consider that Jack took half of the sweets plus an additional 4, and Paul took the remaining 7 sweets. The 7 sweets Paul took were the other half of the sweets after Jack took his share. So, if you add the additional 4 sweets Jack took to the 7 sweets Paul took, you get the number of sweets that represent half of the original amount. Double that number to find the total original number of sweets.
+A: Jack took 4 more candies than the half, and Paul took the rest, which means 7 + 4 = 11 candies were half of all candies.
+That means at first there were 11 * 2 = <<11*2=22>>22 candies.
+#### 22
+The answer is: 22
+
+Q: Basil gets 1/2 of a  dog cookie in the morning and before bed.  She gets 2 whole cookies during the day.  Basil’s cookies are packaged with 45 cookies per box.  How many boxes will she need to last her for 30 days?
+Hint:To find out how many boxes Basil will need for 30 days, first calculate the total number of cookies she will consume in a day. Then multiply that by the number of days to get the total cookies needed for the period. Finally, divide the total number of cookies needed by the number of cookies per box to determine the number of boxes required.
+A: Basil gets 1/2 in the morning and 1/2 at bedtime so she gets 1/2+1/2 = <<1/2+1/2=1>>1 whole cookie
+Basil also gets 2 whole cookies during the day so all total she gets 2+1 =<<2+1=3>>3 whole cookies
+She needs cookies for 30 days and eats 3 a day so she needs 30*3 = <<30*3=90>>90 cookies
+Her cookies come 45 per box and she needs 90 cookies so she needs 90/45 = <<90/45=2>>2 boxes of cookies
+#### 2
+The answer is: 2
+
+Q: It costs $.10 to print one page. Jenny wants to print 7 copies of her 25-page essay. She also wants to buy 7 pens that each cost $1.50. If she pays the store with 2 twenty dollar bills, how much money should she get in change?
+Hint:To calculate the change Jenny should receive, first determine the total cost of printing the pages and buying the pens. Then subtract this total cost from the amount she pays with.
+A: Jenny needs to print 7*25= <<7*25=175>>175 pages.
+This will cost 175*$.10 =$<<175*.10=17.5>>17.5.
+The pens will cost 7*$1.50=$<<7*1.5=10.50>>10.50.
+In total, she will spend $17.5+$10.5=$<<17.5+10.5=28>>28.
+Since she pays with 2 twenty dollar bills she pays with 2*20=<<2*20=40>>40 dollars.
+Thus, she will get $40-$28=$<<40-28=12>>12 in change.
+#### 12
+The answer is: 12
+
+Q:

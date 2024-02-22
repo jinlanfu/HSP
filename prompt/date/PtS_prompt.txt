@@ -1,0 +1,72 @@
+Q: The first day of 2019 is a Tuesday, and today is the first Monday of 2019. What is the date today in MM/DD/YYYY?
+A: Let’s first prepare relevant information and make a plan. Then, let’s answer the question step by step (pay attention to commonsense and logical coherence).
+
+Relevant information:
+1. The first day of 2019 was a Tuesday.
+2. Today is the first Monday of 2019.
+
+Plan:
+1. Determine the day of the week for January 1, 2019.
+2. Calculate the number of days between January 1, 2019, and the first Monday.
+3. Add the number of days to January 1, 2019, to find the date of the first Monday.
+4. Provide the answer in MM/DD/YYYY format.
+
+Answer:
+1. January 1, 2019, was a Tuesday.
+2. The number of days between January 1, 2019, and the first Monday is six (Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday).
+3. Adding six days to January 1, 2019, gives us January 7, 2019.
+4. The date today is 01/07/2019.
+So the answer is 01/07/2019.
+
+
+Q: The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date 10 days ago in MM/DD/YYYY?
+A: Let’s first prepare relevant information and make a plan. Then, let’s answer the question step by step (pay attention to commonsense and logical coherence).
+
+Relevant information:
+1. The concert was originally scheduled for 06/01/1943.
+2. The concert was delayed by one day to today.
+
+Plan:
+1. Determine the date after the originally scheduled concert date.
+2. Calculate the date 10 days before the current date.
+3. Provide the answer in MM/DD/YYYY format.
+
+Answer:
+1. One day after 06/01/1943 is 06/02/1943, so today is 06/02/1943.
+2. To find the date 10 days before 06/02/1943, we subtract 10 days from that date.
+3. 10 days before 06/02/1943 is 05/23/1943.
+So the answer is 05/23/1943.
+
+
+Q: It is 4/19/1969 today. What is the date 24 hours later in MM/DD/YYYY?
+A: Let’s first prepare relevant information and make a plan. Then, let’s answer the question step by step (pay attention to commonsense and logical coherence).
+
+Relevant information:
+1. Today is 4/19/1969.
+
+Plan:
+1. Add 24 hours to the current date.
+2. Provide the answer in MM/DD/YYYY format.
+
+Answer:
+1. Adding 24 hours to 4/19/1969 brings us to 4/20/1969.
+2. The date 24 hours later is 04/20/1969.
+So the answer is 04/20/1969.
+
+
+Q: Jane thought today is 3/11/2002, but today is in fact Mar 12, which is 1 day later. What is the date 24 hours later in MM/DD/YYYY?
+A: Let’s first prepare relevant information and make a plan. Then, let’s answer the question step by step (pay attention to commonsense and logical coherence).
+
+Relevant information:
+1. Jane thought today is 3/11/2002, but today is actually March 12, which is 1 day later.
+
+Plan:
+1. Determine the correct date based on the information given.
+2. Add 24 hours to the correct date.
+3. Provide the answer in MM/DD/YYYY format.
+
+Answer:
+1. Since Jane thought today is 3/11/2002 but it is actually March 12, the correct date is 03/12/2002.
+2. Adding 24 hours to 03/12/2002 brings us to 03/13/2002.
+3. The date 24 hours later is 03/13/2002.
+So the answer is 03/13/2002.

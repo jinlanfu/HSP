@@ -1,0 +1,60 @@
+Q: Oscar wants to train for a marathon. He plans to add 2/3 of a mile each week until he reaches a 20-mile run. How many weeks before the marathon should he start training if he has already run 2 miles?
+A: Oscar needs to increase his maximum running time from 20 - 2 = <<20-2=18>>18 miles.
+Oscar will need a total of 18 / ( 2 / 3 ) = <<18/(2/3)=27>>27 weeks to prepare.
+#### 27
+The answer is: 27
+
+Q: Tony decided he wanted to be an astronaut.  He went to college for 4 years to get a degree in science.  He then went on to get 2 more degrees in other fields for the same period of time.  He also got a graduate degree in physics, which took another 2 years.  How many years in total did Tony go to school to be an astronaut?
+A: Tony got 3 degrees which each took 4 years, for 3*4=<<3*4=12>>12 years spent.
+He then got his graduate degree, which was another 2 years added to the previous total, for 12+2=<<12+2=14>>14 years in total.
+#### 14
+The answer is: 14
+
+Q: Naomi is doing the wash. First she makes piles of different types, with one pile for towels, one for sheets, and one for clothes that need to be washed on the gentle cycle. The clothes take 30 minutes to wash. The towels take twice as long as the clothes to wash. The sheets take 15 minutes less time to wash than the towels. How many minutes total will it take for Naomi to wash everything?
+A: The clothes take 30 minutes to wash and the towels take twice as long, 30 x 2 = <<30*2=60>>60 minutes to wash the towels.
+The sheets take 15 minutes less than the towels, 60 - 15 = <<60-15=45>>45 minutes to wash the sheets.
+It takes 30 minutes + 60 minutes + 45 minutes = <<30+60+45=135>>135 minutes to wash everything.
+#### 135
+The answer is: 135
+
+Q: Josh built his little brother a rectangular sandbox.  The perimeter of the sandbox is 30 feet and the length is twice the width. What is the width of the sandbox?
+A: There are four sides to a rectangle, the width is W and so the length is 2W, and we can put that in this equation: W + W + 2W + 2W = 30 feet.
+If we add the sides together, we get 6W = 30 feet.
+To find W, we divide both sides by 6, like this: 6W / 6 = 30 feet / 6, so W = 5 feet.
+#### 5
+The answer is: 5
+
+Q: Chad sandwiches 2 crackers with a scoop of peanut butter.  He has 5 of these crackers a night before bed.  A box of crackers has 4 sleeves with each sleeve holding 28 crackers.  How many nights will 5 boxes of crackers last him?
+A: Chad uses 2 crackers for each "sandwich" and has 5 sandwiches a night so he eats 2*5 = <<2*5=10>>10 crackers a night
+The box has 4 sleeves of crackers and each sleeve has 28 crackers for a total of 4*28 = <<4*28=112>>112 crackers
+1 box has 112 crackers so 5 boxes will have 112*5 = <<112*5=560>>560 crackers
+He eats 10 crackers a night and 5 boxes have 560 crackers so they will last him 560//10 = <<560//10=56>>56 nights
+#### 56
+The answer is: 56
+
+Q: Utopia National Park hosted 30,000 elephants on Friday night. The next morning, there was a 4-hour elephant exodus out of the park, at a constant rate of 2,880 elephants/hour. Over the next 7-hour period, new elephants entered the park at a constant rate. If the final number of elephants in the park was 28,980, at what rate did the new elephants enter the park?
+A: The Saturday morning exodus out of the park comprised 4*2880 = <<4*2880=11520>>11520 elephants
+This means that after the exodus, the park was left with 30000 - 11520 = <<30000-11520=18480>>18480 elephants
+Since the final number of elephants was 28,980, the new elephants that entered were 28980 - 18480 = <<28980-18480=10500>>10500
+The rate at which the new elephants entered the park was therefore 10500/7 = <<10500/7=1500>>1500 elephants/hour
+#### 1500
+The answer is: 1500
+
+Q: Holly needs to take 2 insulin pills per day, 3 blood pressure pills per day, and twice as many anticonvulsants as blood pressure pills each day. How many pills does Holly take in a week?
+A: First find the number of anticonvulsant pills Holly takes: 3 pills * 2 = <<3*2=6>>6 pills
+Then find the total number of pills Holly takes each day: 6 pills + 2 pills + 3 pills = <<6+2+3=11>>11 pills
+Then multiply that number by the number of days in a week to find the number of pills Holly takes each week: 11 pills/day * 7 days/week = <<11*7=77>>77 pills/week
+#### 77
+The answer is: 77
+
+Q: Ten friends decide to get an end-of-year gift for their teacher. They plan to split the cost of the gift equally. But four of the group drop out. The remaining friends split the cost equally among themselves. If each share is now $8 more, how much does the gift cost, in dollars?
+A: Let N be the original price each friend was going to pay.
+10N=6(N+8)
+10N=6N+48
+4N=48
+N=<<12=12>>12
+Then the present costs 10*12=<<10*12=120>>120.
+#### 120
+The answer is: 120
+
+Q:

@@ -1,0 +1,89 @@
+Q: The average wages of a worker during a fortnight comprising of 15 consecutive working days was $90 per day. During the first 7 days, his average wage was $87 per day and the average wage during the last 7 days was $92 per day. What was his wage on the 8th day? Answer Choices: (A) $83 (B) $92 (C) $90 (D) $97 (E) $104
+Hint: To find the wage on the 8th day, consider the total wages earned during the entire fortnight and subtract the total wages earned during the first 7 days and the last 7 days. Then divide the remaining total by 1, as there is only one day left.
+A: Let’s first understand the problem, extract relevant variables and their corresponding numerals, and make a complete plan.Then, let’s carry out the plan, calculate intermediate variables (pay attention to correct numerical calculation and commonsense), solve the problem step by step, and show the answer.
+
+Variables:
+Average wage during the first 7 days = 87
+Average wage during the last 7 days = 92
+Average wage during the fortnight = 90
+
+Plan:
+Calculate the total wages earned during
+the first 7 days.
+Calculate the total wages earned during
+the last 7 days.
+Calculate the total wages earned during
+the fortnight.
+Calculate the wage on the 8th day.
+
+Calculation:
+Total wages earned during the first 7 days = 7 x 87 = 609
+Total wages earned during the last 7 days = 7 x 92 = 644
+Total wages earned during the fortnight = 15 x 90 = 1350
+Wage on the 8th day = (1350 - 609 - 644) / 1 = 97
+
+Answer: (D) $97.
+So the answer is (D).
+
+
+Q: If 27 bottles of soda cost A cents, how much will B bottles cost in dollars? Answer Choices: (A) AB/2700 (B) 27/AB (C) AB/270 (D) 2700/AB (E) 100AB/27
+Hint: To find the cost of B bottles of soda in dollars, consider the cost of 27 bottles (A cents) and the ratio between the number of bottles (B) and 27. Multiply the cost of 27 bottles by this ratio to get the cost of B bottles in dollars. Remember to convert cents to dollars by dividing by 100.
+A: Let’s first understand the problem, extract relevant variables and their corresponding numerals, and make a complete plan.Then, let’s carry out the plan, calculate intermediate variables (pay attention to correct numerical calculation and commonsense), solve the problem step by step, and show the answer.
+
+Given:
+27 bottles of soda cost A cents
+B bottles of soda
+
+Plan:
+1. Convert A cents to dollars
+2. Calculate the cost of B bottles of soda
+
+Solution:
+1. Convert A cents to dollars: A cents = A/100 dollars
+2. Calculate the cost of B bottles of soda: B bottles of soda = (A/100) * (B/27) = AB/2700 dollars
+
+Answer: (A) AB/2700
+So the answer is (A).
+
+
+Q: On a map, the length of the road from Town F to Town G is measured to be 20 inches. On this map, 1/4 inch represents an actual distance of 10 miles. What is the actual distance, in miles, from Town F to Town G along this road? Answer Choices: (A) 800 (B) 720 (C) 960 (D) 1140 (E) 1160
+Hint: To find the actual distance in miles from Town F to Town G, use the map scale to convert the length of the road on the map (20 inches) to the corresponding actual distance. Remember to multiply the map length by the scale factor (1/4 inch represents 10 miles) to get the actual distance in miles.
+A: Let’s first understand the problem, extract relevant variables and their corresponding numerals, and make a complete plan.Then, let’s carry out the plan, calculate intermediate variables (pay attention to correct numerical calculation and commonsense), solve the problem step by step, and show the answer.
+
+variables:
+Map length (L) = 20 inches
+Map scale (S) = 1/4 inch = 10 miles
+
+Plan:
+L/S = Actual distance (D)
+
+Calculation:
+D = (20 inches)/(1/4 inch) = (20 inches)*(4/1) = 80 inches
+D = (80 inches)*(10 miles/1 inch) = 800 miles
+
+Answer: (A) 800
+So the answer is (A).
+
+
+Q: At an election meeting 10 speakers are to address the meeting. The only protocol to be observed is that whenever they speak the pm should speak before the mp and the mp should speak before the mla. In how many ways can the meeting be held? Answer Choices: (A) 10!/3 (B) 10!/6 (C) 10!/2 (D) 10!/4 (E) 10!/5
+Hint: First, consider the arrangement of the PM, MP, and MLA. Since the PM must speak before the MP and the MP must speak before the MLA, there are only a few possible arrangements for these three positions. Next, calculate the number of ways the remaining 7 speakers can be arranged. Finally, multiply the number of arrangements for the PM, MP, and MLA with the number of arrangements for the remaining speakers to obtain the total number of ways the meeting can be held.
+A: Let’s first understand the problem, extract relevant variables and their corresponding numerals, and make a complete plan.Then, let’s carry out the plan, calculate intermediate variables (pay attention to correct numerical calculation and commonsense), solve the problem step by step, and show the answer.
+
+variables:
+Number of speakers: 10
+Number of PMs: 1
+Number of MPs: 1
+Number of MLAs: 1
+
+Plan:
+1. Calculate the number of ways in which the PM, MP, and MLA can be arranged.
+2. Calculate the number of ways in which the remaining 7 speakers can be arranged.
+3. Multiply the two numbers to get the total number of ways in which the 10 speakers can be arranged.
+
+Calculation:
+1. Number of ways in which the PM, MP, and MLA can be arranged = 3! = 6
+2. Number of ways in which the remaining 7 speakers can be arranged = 7! = 5040
+3. Total number of ways in which the 10 speakers can be arranged = 6 x 5040 = 30240
+
+Answer: (B) 10!/6
+So the answer is (B).

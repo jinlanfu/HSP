@@ -1,0 +1,29 @@
+Q: 2015 is coming in 36 hours. What is the date one week from today in MM/DD/YYYY?
+Hint: To determine the date one week from today, you need to first establish the current date and then add seven days to it.
+
+Q: The first day of 2019 is a Tuesday, and today is the first Monday of 2019. What is the date today in MM/DD/YYYY?
+Hint: To determine the date today, you need to consider that the first day of 2019 was a Tuesday and count six days forward to find the first Monday of the year.
+
+Q: The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date 10 days ago in MM/DD/YYYY?
+Hint: To determine the date 10 days ago, you need to establish the current date (06/02/1943) and then subtract 10 days from it.
+
+Q: It is 4/19/1969 today. What is the date 24 hours later in MM/DD/YYYY?
+Hint: To determine the date 24 hours later, you need to add one day to the current date (04/19/1969).
+
+Q: Jane thought today is 3/11/2002, but today is in fact Mar 12, which is 1 day later. What is the date 24 hours later in MM/DD/YYYY?
+Hint: To determine the date 24 hours later, you need to establish the current date (03/12/2002) and then add one day to it.
+
+Q: Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date yesterday in MM/DD/YYYY?
+Hint: To determine the date yesterday, you need to establish the current date (02/28/2017) and then subtract one day from it.
+
+Q: Yesterday was April 30, 2021. What is the date tomorrow in MM/DD/YYYY?
+Hint: To determine the date tomorrow, you need to establish the current date (04/30/2021) and then add two days to it.
+
+Q: Today is 12/31/2020. What is the date 1 week ago in MM/DD/YYYY?
+Hint: To determine the date one week ago, you need to establish the current date (12/31/2020) and then subtract seven days from it.
+
+Q: It was Sept. 1st, 2021 a week ago. What is the date tomorrow in MM/DD/YYYY?
+Hint: To determine the date tomorrow, you need to establish the current date (09/08/2021) and then add one day to it.
+
+Q: In the US, Thanksgiving is on the fourth Thursday of November. Today is the US Thanksgiving of 2001. What is the date a month ago in MM/DD/YYYY?
+Hint: To determine the date a month ago, you need to establish the current date (11/22/2001) and then subtract one month from it, while keeping in mind any changes in the month and year.

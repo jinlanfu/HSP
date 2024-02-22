@@ -1,0 +1,88 @@
+Q: The school cafeteria ordered 42 red apples and 7 green apples for students lunches. But, if only 9 students wanted fruit, how many extra did the cafeteria end up with?
+Hint: To find the number of extra apples, you need to subtract the number of apples the students wanted from the total number of apples ordered by the cafeteria.
+Solution:
+Let’s first understand the problem, extract relevant variables and their corresponding numerals, and devise a complete plan.Then, let’s carry out the plan, calculate intermediate variables (pay attention to correct numerical calculation and commonsense), solve the problem step by step, and show the answer.
+
+Variables:
+Red apples = 42
+Green apples = 7
+Students wanting fruit = 9
+
+Plan:
+Calculate the total number of apples ordered by the cafeteria
+Subtract the total number of apples ordered by the cafeteria from the number of students wanting fruit
+
+Calculation:
+Total number of apples ordered by the cafeteria = 42 + 7 = 49
+
+Answer:
+Extra apples = 49 - 9 = 40
+The answer is 40.
+
+
+Q: Carol and her mom were picking carrots from their garden. Carol picked 29 and her mother picked 16. If only 38 of the carrots were good, how many bad carrots did they have?
+Hint: To find the number of bad carrots, subtract the number of good carrots from the total number of carrots picked.
+Solution:
+Let’s first understand the problem, extract relevant variables and their corresponding numerals, and devise a complete plan.Then, let’s carry out the plan, calculate intermediate variables (pay attention to correct numerical calculation and commonsense), solve the problem step by step, and show the answer.
+
+Variables:
+Carol: 29
+Mom: 16
+Good Carrots: 38
+
+Plan:
+We can calculate the number of bad carrots by subtracting the number of good carrots from the total
+number of carrots picked.
+
+Calculation:
+Total Carrots Picked = Carol + Mom = 29 + 16 = 45
+Bad Carrots = Total Carrots Picked - Good Carrots = 45 - 38 = 7
+
+Answer:
+There were 7 bad carrots.
+The answer is 7.
+
+
+Q: Nancy and her mom were picking carrots from their garden. Nancy picked 38 and her mother picked 47. If only 71 of the carrots were good, how many bad carrots did they have?
+Hint: To find the number of bad carrots, subtract the number of good carrots from the total number of carrots picked by Nancy and her mom.
+Solution:
+Let’s first understand the problem, extract relevant variables and their corresponding numerals, and devise a complete plan.Then, let’s carry out the plan, calculate intermediate variables (pay attention to correct numerical calculation and commonsense), solve the problem step by step, and show the answer.
+
+Variables:
+Nancy: 38 carrots
+Mom: 47 carrots
+Good Carrots: 71 carrots
+
+Plan:
+We can calculate the total number of carrots picked by Nancy and her mom by adding the number of carrots picked by each of them.
+Then, we can subtract the total number of carrots from the number of good carrots to find the number of bad carrots.
+
+Calculation:
+Total number of carrots picked = 38 + 47 = 85
+Number of bad carrots = 85 - 71 = 14
+
+Answer:
+Nancy and her mom had 14 bad carrots.
+The answer is 14.
+
+
+Q: A new building needed 14 windows. The builder had already installed 8 of them. If it takes 8 hours to install each window, how long will it take him to install the rest?
+Hint: To calculate the total time required to install the remaining windows, multiply the number of windows remaining by the time it takes to install each window.
+Solution:
+Let’s first understand the problem, extract relevant variables and their corresponding numerals, and devise a complete plan.Then, let’s carry out the plan, calculate intermediate variables (pay attention to correct numerical calculation and commonsense), solve the problem step by step, and show the answer.
+
+Relevant variables:
+Number of windows needed: 14
+Number of windows already installed: 8
+Time to install each window: 8 hours
+
+Plan:
+1. Calculate the number of windows remaining to be installed.
+2. Calculate the total time required to install the remaining windows.
+
+Calculation:
+1. Number of windows remaining to be installed = 14 - 8 = 6
+2. Total time required to install the remaining windows = 6 x 8 hours = 48 hours
+
+Answer: It will take the builder 48 hours to install the remaining 6 windows.
+The answer is 48.
