@@ -80,7 +80,7 @@ The accuracy will be printed to standard output.
 python evaluate.py --dataset_name GSM8K --file gsm8k_output.json
 ```
 
-### (3) Supervise Fine-tuning 
+## Supervise Fine-tuning 
 - SFT on HSPMATH dataset
 - We constructed a HSPMATH1 dataset with 7.5k samples based on the GSM8K training dataset with the assistance of GPT-4.
 - Based on rewriting questions from the MetaMathQA dataset, we expanded our HSPMATH dataset to 75,000 samples (./sft/HSPMATH.jsonl).
@@ -115,12 +115,40 @@ sft_gsm8k.py \
 
 ```
 
+### Model and Performance
 
 The best HSPMATH-7B model is now available on huggingface-hub:
 
-| Model Name                | HF Checkpoint                                                                              | Size  | License |
-|:-----------------|:---------------------------------------------------|:------| :--- |
-| HSPMATH-7B | 🤗 [AGI4Good/HSPMATH-7B](https://huggingface.co/AGI4Good/HSPMATH-7B) | 7B | [Llama2](https://ai.meta.com/resources/models-and-libraries/llama-downloads/)|
+| Model Name                | HF Checkpoint                                                                              | Size  | GSM8K | License |
+|:-----------------|:---------------------------------------------------|:------| :--- |:--- |
+| HSPMATH-7B | 🤗 [AGI4Good/HSPMATH-7B](https://huggingface.co/AGI4Good/HSPMATH-7B) | 7B | 64.3| [Llama2](https://ai.meta.com/resources/models-and-libraries/llama-downloads/)|
+
+
+### Leaderboard for 7B Open-source Models in GSM8k
+- The MetaMath family models is fine-tuned on 400k samples, which is more than 5.3 times the size of our training set. 
+- Llemma-7B (SFT) and our model HSPMATH-7B are supervised fine-tuning (SFT) on the same dataset but without the Hint texts. We found that by introducing hints, the SFT model HSPMATH-7B improved by 5.6%.
+
+| Open-source Model (7B) | GSM8k  | 
+|-----------|------------|
+|MetaMath-Mistral-7B|77.7 |
+|MetaMath-7B-V1.0| 66.5 |
+|HSPMATH-7B| **64.3** |
+|Llemma-7B (SFT)| 58.7 |
+|WizardMath-7B| 54.9 |
+|RFT-7B |50.3|
+|Qwen-7b|47.84  
+|Mistral-7b|37.83 |
+|Yi-6b| 32.6  |
+|ChatGLM-6B| 32.4 | 
+|LLaMA2-7b|12.96  |
+
+|Close-source Model|GSM8k|
+|-----------|------------|
+|GPT-3.5 | 57.1 |
+|PaLM-540B |56.5 |
+|Minerva-540B |58.8 |
+|Minerva-62B |52.4 |
+|Chinchilla-70B |43.7|
 
 ## 5. Citation
 If you find this repository useful, please cite our paper:
