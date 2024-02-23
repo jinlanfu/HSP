@@ -116,6 +116,12 @@ sft_gsm8k.py \
 ```
 
 
+The best HSPMATH-7B model is now available on huggingface-hub:
+
+| Model Name                | HF Checkpoint                                                                              | Size  | License |
+|:-----------------|:---------------------------------------------------|:------| :--- |
+| HSPMATH-7B | 🤗 [AGI4Good/HSPMATH-7B](https://huggingface.co/AGI4Good/HSPMATH-7B) | 7B | [Llama2](https://ai.meta.com/resources/models-and-libraries/llama-downloads/)|
+
 ## 5. Citation
 If you find this repository useful, please cite our paper:
 ```
