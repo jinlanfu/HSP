@@ -83,7 +83,7 @@ class Model(object):
             file_suffix = ''
         prompt_path = f"prompt/{self.dataset_name.lower()}/{file_prefix}_prompt{file_suffix}.txt"
         with open(prompt_path, 'r', encoding='utf-8') as fr:
-            self.prompt = fr.read()
+            self.prompt = fr.read().strip()
         if self.gsm8k_zero_shot is True:
             template_path = f"prompt/gsm8k/gsm8k_zero_shot.txt"
         with open(template_path, 'r', encoding='utf-8') as fr:

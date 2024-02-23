@@ -34,7 +34,7 @@ CODE_MAX_TOKEN = { "GSM8K": 1000,
                    "sports": 500,
 				   "CLUTRR": 70 # for each step
                   }
-NO_CODE_STOP_TOKEN = {"GSM8K": ["Q:", "Question:", "Question", "USER:", "USER", "ASSISTANT:", "ASSISTANT", "Instruction:", "Instruction", "Response:", "Response"],
+NO_CODE_STOP_TOKEN = {"GSM8K": ["Q:", "Question:", "Question", "USER:", "USER", "ASSISTANT:", "ASSISTANT", "Instruction:", "Instruction", "Response:", "Response", "Below is an instruction"],
                       "SVAMP": "Q:",
                       "MultiArith": "Q:",
                       "ASDiv": "Q:",
@@ -46,7 +46,7 @@ NO_CODE_STOP_TOKEN = {"GSM8K": ["Q:", "Question:", "Question", "USER:", "USER", 
                       "CLUTRR": "Context:",
                       }
 
-NO_CODE_MAX_TOKEN = {"GSM8K": 500,
+NO_CODE_MAX_TOKEN = {"GSM8K": 512,
                      "SVAMP": 500,
                      "MultiArith": 500,
                      "ASDiv": 500,

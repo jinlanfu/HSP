@@ -1,1 +1,6 @@
-Question: [QUESTION]
+Below is an instruction that describes a task. Write a response including the hint and solution pair that appropriately completes the request.
+
+### Instruction:
+[QUESTION]
+
+### Response:

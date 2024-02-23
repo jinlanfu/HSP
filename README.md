@@ -115,6 +115,13 @@ sft_gsm8k.py \
 
 ```
 
+- HSPMATH-7B  Evaluation
+```
+python inference.py --model {HSPMATH-7B_path} --tp_degree 4 --dataset_name GSM8K --output_path hspmath-7b_output.json --hint --hint_prompt3
+python evaluate.py --dataset_name GSM8K --file hspmath-7b_output.json
+```
+
+
 ### Model and Performance
 
 The best HSPMATH-7B model is now available on huggingface-hub:
@@ -149,6 +156,8 @@ The best HSPMATH-7B model is now available on huggingface-hub:
 |Minerva-540B |58.8 |
 |Minerva-62B |52.4 |
 |Chinchilla-70B |43.7|
+
+
 
 ## 5. Citation
 If you find this repository useful, please cite our paper:
