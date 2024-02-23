@@ -1,6 +1,6 @@
 # Hint-before-Solving Prompting (HSP)
 This is the Source Code of Paper: [Hint-before-Solving Prompting: Guiding LLMs to
-Effectively Utilize Encoded Knowledge](https://arxiv.org/).
+Effectively Utilize Encoded Knowledge](https://arxiv.org/pdf/2402.14310.pdf).
 
 
 ## 1. What is Hint-before-Solving Prompting (HSP)?
